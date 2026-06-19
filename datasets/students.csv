@@ -1,0 +1,21 @@
+student_id,skills,internship_months,education_level,certifications,preferred_role,location
+1,"Python:85,SQL:75,Excel:70,Pandas:80",18,BTech,"Python,SQL",Data Analyst,Pune
+2,"Java:80,Spring:75,SQL:65,Git:70",24,BE,Java,Backend Developer,Mumbai
+3,"Python:90,ML:85,TensorFlow:75,SQL:70",12,MCA,ML,ML Engineer,Bangalore
+4,"Excel:85,SQL:60,PowerBI:80",14,BTech,PowerBI,BI Analyst,Pune
+5,"JavaScript:85,React:80,HTML:90,CSS:85",16,BE,Web,Frontend Developer,Hyderabad
+6,"Python:65,SQL:60,Excel:70",8,BTech,,Data Analyst,Nagpur
+7,"Java:90,Spring:85,Microservices:80",36,MCA,Java,Backend Developer,Mumbai
+8,"Python:75,Django:80,REST:75,SQL:70",30,BE,Backend,Backend Developer,Pune
+9,"C++:80,DSA:85,Python:70",20,BE,DSA,Software Engineer,Delhi
+10,"AWS:75,Docker:70,Linux:80",22,BTech,Cloud,Cloud Engineer,Pune
+11,"Python:88,Data Science:80,SQL:75",10,MCA,Data Science,Data Scientist,Bangalore
+12,"React:85,Node:80,MongoDB:75",18,BE,MERN,Full Stack Developer,Mumbai
+13,"SQL:90,Excel:85,Tableau:75",26,BTech,Analytics,Data Analyst,Delhi
+14,"Java:75,Spring:70,SQL:65",15,BE,Backend,Backend Developer,Pune
+15,"Python:80,Flask:75,API:70",28,MCA,Python,Backend Developer,Nagpur
+16,"Kotlin:80,Android:85,Java:70",20,BTech,Android,Mobile Developer,Hyderabad
+17,"Cybersecurity:85,Networking:80,Linux:75",32,BE,Security,Security Analyst,Pune
+18,"HTML:90,CSS:85,JavaScript:80",9,BTech,Frontend,Frontend Developer,Mumbai
+19,"SQL:80,Python:75,Statistics:70",21,MCA,Analytics,Data Analyst,Bangalore
+20,"C#:85,.NET:80,SQL:70",30,BE,.NET,Software Engineer,Delhi

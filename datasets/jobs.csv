@@ -1,0 +1,10 @@
+job_id,company_name,job_title,required_skills,min_experience_years,job_type,location
+101,TechNova,Data Analyst,"Python:70,SQL:60,Excel:50",1,Hybrid,Pune
+102,CodeWorks,Backend Developer,"Java:70,Spring:65,SQL:60",2,Remote,Mumbai
+103,AI Labs,ML Engineer,"Python:80,ML:70,TensorFlow:60",1,Hybrid,Bangalore
+104,DataVision,BI Analyst,"Excel:70,SQL:60,PowerBI:70",1,Onsite,Pune
+105,WebCraft,Frontend Developer,"JavaScript:70,React:70,HTML:70",1,Remote,Hyderabad
+106,CloudSphere,Cloud Engineer,"AWS:70,Docker:60,Linux:70",2,Hybrid,Pune
+107,SecureNet,Security Analyst,"Cybersecurity:70,Networking:70,Linux:60",2,Onsite,Pune
+108,MobileWorks,Android Developer,"Kotlin:70,Android:70,Java:60",1,Remote,Hyderabad
+109,SoftCore,Software Engineer,".NET:70,C#:70,SQL:60",2,Hybrid,Delhi

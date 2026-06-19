@@ -1,0 +1,7 @@
+student_id,job_id,skill_overlap_count,skill_overlap_ratio,experience_gap,label
+1,101,3,1.0,0.5,1
+2,102,3,1.0,0.0,1
+3,103,3,1.0,-0.2,1
+4,104,3,1.0,0.1,1
+5,105,3,1.0,0.3,1
+6,101,2,0.66,-0.3,0
